@@ -1,4 +1,3 @@
 Squat: 5x150 4x160
 Bench: 5x160
 Deadlift: 7x120, 8x130
-Foo: 6x20

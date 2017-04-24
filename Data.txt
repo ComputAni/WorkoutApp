@@ -1,0 +1,3 @@
+Squat,150
+Bench,200
+Deadlift,300
